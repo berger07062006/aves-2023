@@ -32,3 +32,13 @@ Características Gerais das Aves
 
 
   As ratitas são aves que não apresentam carena no esterno, e são incapazes de voar, como a ema e o avestruz.
+
+  
+Nomes de pássaros famosos
+Bem-te-vi (Pitangus sulphuratus)
+Canário-do-campo (Emberizoides herbicola)
+João-de-barro (Furnarius rufus)
+Periquito (Melopsittacus undulatus)
+Pintassilgo (Spinus magellanicus)
+Rouxinol (Luscinia megarhynchos)
+Sabiá (Turdus rufiventris)
